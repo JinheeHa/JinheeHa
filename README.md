@@ -1,16 +1,15 @@
-### Hi there 👋
-
+### Hello👋
+    I'm Jinhee Ha. I want to be a developer who helps people's lives in line with the trend of the times.
+    
 <!--
 **JinheeHa/JinheeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+* 😄 Java, JavaScript, HTML, and CSS are being studied and available.
+
+- 
